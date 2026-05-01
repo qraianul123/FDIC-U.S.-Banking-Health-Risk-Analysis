@@ -129,6 +129,8 @@ if os.path.exists(failures_path):
     failures.to_csv(os.path.join(output_folder, "FDIC Bank Failures.csv"), index=False)
     print("Bank Failures file processed.")
 
+
 print("Pipeline complete. Output files:")
 for f in os.listdir(output_folder):
     print(f" - {f}")
+
