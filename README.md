@@ -2,7 +2,7 @@
 Python data pipeline and Tableau dashboard looking at the health and risk of the U.S. banking industry from 2018-2025 With ROA trends, capital ratios, uninsured deposit exposure, bank failures by state and industry consolidation by FDIC Call Report data.
 
 # Key Findings
-![Health Trends](./Heath_Trends.png)
+![Health Trends](./Health_Trends.png)
 There are three stories in this chart. The Capital Ratio (orange) declined from 30.40 in 2018 to a low of 15.83 in 2022, then partially recovered to 18.63 by 2025. The post-2008 regulatory buffers were eroded as interest rates increased and asset values changed. The red line shows the Uninsured Deposit percentage steadily rising from 21.24 to a peak of 27.41 in 2022 before falling slightly, the exact risk profile that made SVB and Signature Bank vulnerable to bank runs. The ROA line (in teal) was flat between 1.2 and 1.5 for the entire period, indicating that systemic risk was building, but surface-level profitability metrics gave little warning of the stress below.
 
 ![Bank Failures](./Bank_Failures.png)
